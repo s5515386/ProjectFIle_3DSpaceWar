@@ -5,9 +5,10 @@
 - Move Right - D
 - Shoot - Space
 - Summon the wingman - X
+- 
 - Ammo
 
-The maximum number of bullets is 10, and each shot consumes 1 bullet. The bullets will replenish over time.
+- The maximum number of bullets is 10, and each shot consumes 1 bullet. The bullets will replenish over time.
 - Score
 
   Each time you shoot down an enemy plane, you will gain 1 score.
