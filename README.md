@@ -1,6 +1,10 @@
 # 3D Space War
 //Text.
 ## Operation introduction
+3D Space War is an aerial combat game from a third person perspective. 
+You can maneuver a plane to move side to side, firing bullets to shoot down enemy planes while dodging bullets from them. 
+Your plane has many chances to take damage, please remember to avoid collision with enemy planes, such damage is not acceptable to your plane.
+
 - Move Left - A
 - Move Right - D
 - Shoot - Space
@@ -22,8 +26,6 @@
 
   When your plane collides with an enemy plane, you will lose all your health, Game Over.
 
-## Playing instrution
-//Text.
 ## 3D Assets
 - All the models were made using Maya.
 - All the textures are made using Substance Painter
